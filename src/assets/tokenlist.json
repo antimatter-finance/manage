@@ -179,5 +179,12 @@
 		"chainId": 1,
 		"name": "Chromia",
 		"decimals": "18"
+	},
+	{
+		"symbol": "BLACK",
+		"address": "0xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2",
+		"chainId": 1,
+		"name": "BlackHole.BLACK Mapping Token",
+		"decimals": "18"
 	}
 ]
